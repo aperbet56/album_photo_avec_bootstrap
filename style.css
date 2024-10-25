@@ -1,0 +1,32 @@
+/**** Importation de la police Dosis ****/
+
+@import url("https://fonts.googleapis.com/css?family=Dosis&display=swap");
+
+/**** Reset ****/
+
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Dosis", sans-serif;
+}
+
+/**** Style général de la page ****/
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    width: 100%;
+    display: flex;
+}
+
+.main__content {
+    flex-grow: 1;
+}
