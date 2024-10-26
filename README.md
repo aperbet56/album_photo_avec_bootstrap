@@ -18,3 +18,4 @@ Lien vers le projet : https://aperbet56.github.io/album_photo_avec_bootstrap/
 - Page web responsive
 - Desktop first
 - Importation de la police "Dosis"
+- Animations CSS
