@@ -30,3 +30,11 @@ header {
 .main__content {
     flex-grow: 1;
 }
+
+.card {
+    transition: transform 0.3s ease-out
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
